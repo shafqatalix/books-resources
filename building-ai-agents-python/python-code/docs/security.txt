@@ -1,0 +1,1 @@
+Acme Cloud security guidelines. Use a password manager and enable two-factor authentication on every work account. Never share credentials in chat. Report suspected phishing to security@acme.example within one hour. Laptops must use full-disk encryption. Customer data may only be accessed through approved admin tools.

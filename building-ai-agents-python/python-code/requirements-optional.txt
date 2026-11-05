@@ -1,0 +1,11 @@
+# Local embeddings (EMBEDDINGS=local), chapter 8
+langchain-huggingface
+sentence-transformers
+
+# Serving, chapter 17
+fastapi
+uvicorn
+langgraph-cli[inmem]
+
+# LLM-as-judge evaluators, chapter 16
+openevals

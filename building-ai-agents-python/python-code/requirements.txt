@@ -1,0 +1,15 @@
+# Core packages for the examples in the book.
+# After everything works, pin exact versions:  pip freeze > requirements.lock.txt
+langchain>=1.0
+python-dotenv
+langchain-text-splitters
+
+# Install ONE chat-model provider package (match the provider in MODEL):
+langchain-anthropic
+# langchain-openai
+
+# Embeddings for chapters 8 to 10 default to OpenAI (needs langchain-openai and OPENAI_API_KEY).
+# Skip OpenAI by setting EMBEDDINGS=local in .env and installing requirements-optional.txt.
+langchain-openai
+
+pytest

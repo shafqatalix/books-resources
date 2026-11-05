@@ -1,0 +1,1 @@
+Acme Cloud refund policy. Customers may request a full refund within 30 days of purchase. After 30 days, annual plans are refunded for the unused full months. Monthly plans are not refundable after the first 30 days. Send refund requests to billing@acme.example. Requests are answered within 3 business days.

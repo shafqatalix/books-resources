@@ -1,0 +1,5 @@
+{
+  "dependencies": ["."],
+  "graphs": { "assistant": "./ch17_serve/graph.py:agent" },
+  "env": ".env"
+}
